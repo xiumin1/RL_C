@@ -1,0 +1,6 @@
+﻿  MyRL_QLearning_test.cpp
+d:\box sync\research projects\7.07.2019-projects\rl_c++\rl_c++\rl_c++test\myrl_qlearning_test.cpp(359): warning C4101: 'action': unreferenced local variable
+  Generating code
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RL_c++test.vcxproj -> D:\Box Sync\Research Projects\7.07.2019-projects\RL_c++\RL_c++\x64\Release\RL_c++test.exe
